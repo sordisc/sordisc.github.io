@@ -1,0 +1,15 @@
+style.css
+
+/* navigation menu styles */
+.topnav {
+    background-color: #dcdcdc;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav a {
+    float: left;
+    display: run-in;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #ffa07a;
+}
